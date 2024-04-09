@@ -39,7 +39,6 @@ def main():
 
     updater.start_polling()
     updater.idle()
-
     
     # To start the bot:
     updater.start_polling()
